@@ -1,0 +1,53 @@
+Aria, 20:f8:5e:ca:91:52, 1
+D-LinkCam, b0:c5:54:25:5b:0e, 2
+D-LinkDayCam, b0:c5:54:1c:71:85, 3
+D-LinkDoorSensor, 1c:5f:2b:aa:fd:4e, 4
+D-LinkHomeHub, 1c:5f:2b:aa:fd:4e, 5
+D-LinkSensor, 90:8d:78:a8:e1:43, 6
+D-LinkSiren, 90:8d:78:dd:0d:60, 7
+D-LinkSwitch, 90:8d:78:a9:3d:6f, 8
+D-LinkWaterSensor, 6c:72:20:c5:17:5a, 9
+EdimaxCam1, 74:da:38:80:7a:08, 10
+EdimaxCam2, 74:da:38:80:79:fc, 11
+EdimaxPlug1101W, 74:da:38:4a:76:49, 12
+EdimaxPlug2101W, 74:da:38:23:22:7b, 13
+EdnetCam1, 3c:49:37:03:17:db, 14
+EdnetCam2, 3c:49:37:03:17:f0, 15
+EdnetGateway, ac:cf:23:62:3c:6e, 16
+HomeMaticPlug, 00:1a:22:05:c4:2e, 17 
+HueBridge, 00:17:88:24:76:ff, 18
+HueSwitch, 00:17:88:24:76:ff, 19
+iKettle2, 5c:cf:7f:06:d9:02, 20
+Lightify, 84:18:26:7b:5f:6b, 21
+MAXGateway, 00:1a:22:03:cb:be, 22
+SmarterCoffee, 5c:cf:7f:07:ae:fb, 23
+TP-LinkPlugHS100, 50:c7:bf:00:fc:a3, 24
+TP-LinkPlugHS110, 50:c7:bf:00:c7:03, 25
+WeMoInsightSwitch, 94:10:3e:41:c2:05, 26
+WeMoInsightSwitch2, 94:10:3e:42:80:69, 27
+WeMoLink, 94:10:3e:cd:37:65, 28
+WeMoSwitch, 94:10:3e:35:01:c1, 29
+WemoSwitch2, 94:10:3e:34:0c:b5, 30
+Withings, 00:24:e4:24:80:2a, 31
+Smart Things, d0:52:a8:00:67:5e, 32
+Amazon Echo, 44:65:0d:56:cc:d3, 33 	
+Netatmo Welcome, 70:ee:50:18:34:43, 34 	
+TP-Link Day Night Cloud camera, f4:f2:6d:93:51:f1, 35 	
+Samsung SmartCam, 00:16:6c:ab:6b:88, 36 	
+Dropcam, 30:8c:fb:2f:e4:b2, 37 	
+Insteon Camera, 00:62:6e:51:27:2e, 38	 
+Withings Smart Baby Monitor, 00:24:e4:11:18:a8, 39 	
+Belkin Wemo switch, ec:1a:59:79:f4:89, 40 	
+TP-Link Smart plug, 50:c7:bf:00:56:39, 41 	
+iHome, 74:c6:3b:29:d7:1d, 42 	
+Belkin wemo motion sensor, ec:1a:59:83:28:11, 43 	
+NEST Protect smoke alarm, 18:b4:30:25:be:e4, 44	
+Netatmo weather station, 70:ee:50:03:b8:ac, 45 	
+Withings Smart scale, 00:24:e4:1b:6f:96, 46 	
+Blipcare Blood Pressure meter, 74:6a:89:00:2e:25, 47 	
+Withings Aura smart sleep sensor, 00:24:e4:20:28:c6, 48 	
+Light Bulbs LiFX Smart Bulb, d0:73:d5:01:83:08, 49 	
+Triby Speaker, 18:b7:9e:02:20:44, 50 	
+PIX-STAR Photo-frame, e0:76:d0:33:bb:85, 51 	
+HP Printer, 70:5a:0f:e4:9b:c0, 52 	
+Nest Dropcam, 30:8c:fb:b6:ea:45, 53
